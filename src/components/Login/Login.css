@@ -24,6 +24,7 @@ input{
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid #2A414F;
+    padding-left: 15px;
 }
 input[type=submit]{
     background-color: #ff9900b0;
